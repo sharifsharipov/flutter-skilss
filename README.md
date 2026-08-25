@@ -152,5 +152,3 @@ Issues and PRs welcome. Two rules for reference edits:
 ## License
 
 [MIT](LICENSE) © Sharif Sharipov
-# flutter-skilss
-# flutter-skilss
