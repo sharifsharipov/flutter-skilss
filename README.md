@@ -13,8 +13,8 @@ Once installed, it applies automatically whenever you write, refactor, review, a
 ## Quick start
 
 ```bash
-git clone https://github.com/sharifsharipov/flutter-skills.git
-cd flutter-skills
+git clone https://github.com/sharifsharipov/flutter-skilss.git
+cd flutter-skilss
 ./install.sh
 ```
 
